@@ -20,19 +20,6 @@ The system handles special cases like a closed fist (0 fingers) and one finger r
 
 ---
 
-## Folder Structure
-
-finger_detection/
-│
-├── code/
-│   ├── main.py # Entry point; webcam capture and display
-│   ├── process.py # Image processing: ROI, thresholding, contour and convex hull
-│   ├── detect.py # Finger detection logic: convexity defects analysis
-├── README.md # Project documentation
-└── requirements.txt # Dependencies
-
----
-
 ## Dependencies
 
 - Python 3.10+
