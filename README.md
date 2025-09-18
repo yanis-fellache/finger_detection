@@ -29,6 +29,7 @@ The system handles special cases like a closed fist (0 fingers) and one finger r
 
 ## Instructions
 
+- Run main.py
 - A webcam window will open:
 - Place your hand inside the blue rectangle (ROI)
 - The detected fingers will be counted and displayed on screen
