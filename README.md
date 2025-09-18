@@ -75,7 +75,15 @@ detect.py
 ---
 
 ## Notes
+
 - Adjust the ROI (roi = frame[50:400, 50:400]) to match your webcam setup.
 - The HSV / grayscale threshold parameters can be tuned for different lighting conditions.
 - The system currently supports up to 5 fingers detection.
 - For best results, use a plain background and ensure good lighting.
+
+---
+
+## License
+
+This project is licensed under the MIT License.
+See the LICENSE file for details.
