@@ -1,5 +1,5 @@
 import cv2
-from process import process_image
+from code.process import process_image
 
 ######################################################################################
 # Version 1.5
