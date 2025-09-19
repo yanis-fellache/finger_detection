@@ -1,5 +1,5 @@
 import cv2
-from detect import detect_fingers
+from code.detect import detect_fingers
 
 ######################################################################################
 # process.py
